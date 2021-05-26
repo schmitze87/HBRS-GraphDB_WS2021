@@ -52,7 +52,7 @@ wenn du auf dein neu angelegtes DMBS klickst, erscheint auf der rechten Seite de
 
 ### Panama Paper laden
 
-Der Datensatz den wir uns im Rahmen dieses Workshops anschauen werden vom **International Consortium of Investigative Journalists** [ICIJ](https://www.icij.org/) erstellt und ist unter der [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/) lizensiert. Der Content der Datenbank steht wiederum unter der [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/) Lizenz. Bei der Verwendung der Datenbank und der Daten ist die Referenz auf das ICIJ stehts anzugeben. 
+Der Datensatz, den wir uns im Rahmen dieses Workshops anschauen, wurde vom **International Consortium of Investigative Journalists** [ICIJ](https://www.icij.org/) erstellt und ist unter der [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/) lizensiert. Der Content der Datenbank steht wiederum unter der [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/) Lizenz. Bei der Verwendung der Datenbank und der Daten ist die Referenz auf das ICIJ und die Lizenz stehts anzugeben. 
 
 Die "Roh-Daten" können auf einer Downloadseite des ICIJ als unaufbereitete CSV-Dateien heruntergeladen werden. Alternativ steht auch direkt ein Download in Form einer leider relativ alten Neo4j Datenbank zur Verfügung. Ich habe das Format der Daten zur Verwendung in einer aktuellen Neo4j Version angepasst und [hier](https://1drv.ms/u/s!Aq1EaJ_JNtZ-nsNZD_LhvUJ7q51r4w?e=Lcgl9G) zum Download zur Verfügung gestellt. 
 
