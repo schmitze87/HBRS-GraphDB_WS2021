@@ -1,1 +1,1 @@
-# HBRS-GraphDB_WS2021
+# Workshop Graphdatenbanken HBRS
