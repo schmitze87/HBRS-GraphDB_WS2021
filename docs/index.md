@@ -66,7 +66,7 @@ Um den Importvorgang starten zu können, musst Du in einer Powershell in das Ver
 
 In der Powershell musst du dann den folgenden Befehl ausführen.
 
-```powershell
+```bat
 bin\neo4j-admin import --ignore-empty-strings=true --database=neo4j --id-type=INTEGER --multiline-fields=true --nodes=import/offshore-nodes.csv --relationships=import/offshore-relationships.csv
 ```
 
