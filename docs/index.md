@@ -5,6 +5,8 @@ Willkommen beim Workshop Graphdatenbanken der Firma CONET im Rahmen der Vorlesun
 ## Wichtigster Link für die Übung
 [Cypher Reference Card](https://neo4j.com/docs/cypher-refcard/current/)
 
+[Einführung Cypher](./intro/intro.md)
+
 ## Hier geht es direkt zu den Übungen
 [Übung 1](./uebung1/fragen.md)
 
