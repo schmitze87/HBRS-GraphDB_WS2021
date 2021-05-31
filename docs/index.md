@@ -2,6 +2,16 @@
 
 Willkommen beim Workshop Graphdatenbanken der Firma CONET im Rahmen der Vorlesung "Business Intelligence" im Masterstudiengang Wirtschaftsinformatik der Hochschule Bonn-Rhein-Sieg. Hier werden zunächst alle Schritte beschrieben die Du ausführen musst, um erfolgreich an der Veranstaltung teilnehmen zu können.
 
+## Wichtigster Link für die Übung
+[Cypher Reference Card](https://neo4j.com/docs/cypher-refcard/current/)
+
+## Hier geht es direkt zu den Übungen
+[Übung 1](./uebung1/fragen.md)</br>
+[Lösungen 1](./uebung1/loesungen.md)
+
+[Übung 2](./uebung2/fragen.md)</br>
+[Lösungen 2](./uebung2/loesungen.md)
+
 ## Einrichten der Arbeitsumgebung
 
 Alle Installationsschirtte werden auf Basis von Windows 10 dokumentiert und erläutert. Lassen sich aber auch problemlos auf andere Systeme adaptieren.
